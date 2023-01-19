@@ -1,0 +1,7 @@
+D:\C# Assignments\Operation_Termination_10_2\bin\Debug\Operation_Termination_10_2.exe.config
+D:\C# Assignments\Operation_Termination_10_2\bin\Debug\Operation_Termination_10_2.exe
+D:\C# Assignments\Operation_Termination_10_2\bin\Debug\Operation_Termination_10_2.pdb
+D:\C# Assignments\Operation_Termination_10_2\obj\Debug\Operation_Termination_10_2.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Operation_Termination_10_2\obj\Debug\Operation_Termination_10_2.exe
+D:\C# Assignments\Operation_Termination_10_2\obj\Debug\Operation_Termination_10_2.pdb
+D:\C# Assignments\Operation_Termination_10_2\obj\Debug\Operation_Termination_10_2.csprojAssemblyReference.cache
